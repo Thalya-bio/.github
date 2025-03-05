@@ -1,10 +1,9 @@
 # Thalya
 
+![Thalya logo](docs/Whited-Photoroom.png)
 
 Thalya is the first company to leverage RNAi technology for biostimulant applications, enhancing nitrogen use efficiency while significantly reducing environmental impact and increasing profitability for farmers.
 
-[Website](https://thalya.bio/)
+[![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.linkedin.com/company/thalyabio/)
 
-[LinkedIN](https://www.linkedin.com/company/thalyabio/posts/?feedView=all)
-
-
+[![Website](docs/icon.png) Website](https://thalya.bio/)
