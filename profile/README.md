@@ -6,4 +6,4 @@ Thalya is the first company to leverage RNAi technology for biostimulant applica
 
 [![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.linkedin.com/company/thalyabio/)
 
-[![Website](../docs/icon.png) Website](https://thalya.bio/)
+[![Website](../docs/favicon-32.png) Website](https://thalya.bio/)
